@@ -50,3 +50,8 @@ skills:
   logo: /images/sections/skills/aws_lang_logo.png
   summary: "AWSを用いたクラウド開発やサービス連携．具体的にはEC2，RDS，Amazon Rekognitionなどのサービスを利用したことがある．"
   url: "https://aws.amazon.com/jp/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "サブのオペレーティングシステムとして使用中．主に研究室のサーバやメーリングリスト(fml)の管理に使用．"
+  url: #
