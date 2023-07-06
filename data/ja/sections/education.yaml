@@ -1,0 +1,71 @@
+# section information
+section:
+  name: 学歴
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: 理工学研究科 理工学専攻
+  icon: fa-microscope
+  timeframe: 2023 -
+  institution:
+    name: 公立千歳科学技術大学大学院
+    url: "https://www.chitose.ac.jp/course/graduate_index"
+  #grade: #(optional)
+    #scale: CGPA
+    #achieved: 3.6
+    #outOf: 4
+  publications: #(optional)
+  - title: MRを用いたネットワーク学習教材の開発 (JSiSE：第48回全国大会)
+    url: "#"
+  extracurricularActivities:
+  - 小松川研究室 所属
+
+- name: 理工学部 情報システム工学科
+  icon: fa-graduation-cap
+  timeframe: 2019 - 2023
+  institution:
+    name: 公立千歳科学技術大学
+    url: "https://www.chitose.ac.jp/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.3
+    outOf: / 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: 一般教育科目
+      achieved: 3.5
+      #outOf: 4
+    - name: 外国語科目
+      achieved: 2.8
+      #outOf: 4
+    - name: 専門教育科目
+      achieved: 3.2
+      #outOf: 4
+    - name: その他選択科目
+      achieved: 4
+      #outOf: 4
+  publications: #(optional)
+  - title: MRを用いたネットワーク学習教材の開発 (卒業論文)
+    #url: "#"
+  extracurricularActivities: #(optional)
+  - 理科工房 所属
+  - プロジェクトメンバー 所属
+  - 小松川研究室 所属
+
+- name: 普通科
+  icon: fa-university
+  timeframe: 2016 - 2019
+  institution:
+    name: 私立 茨城高等学校
+    url: https://www.ibaraki-jsh.ed.jp/
+  extracurricularActivities: #(optional)
+  - 男子ソフトテニス部 所属

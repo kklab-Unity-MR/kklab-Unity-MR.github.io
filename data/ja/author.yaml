@@ -1,0 +1,20 @@
+# some information about you
+name: "豊崎 駿佑"
+nickname: "TOYO"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/IMG_6457.jpg"
+# give your some contact information. they will be used in the footermarukku
+contactInfo:
+  email: "cist.b219.s.toyosaki@gmail.com"
+  #phone: "+0123456789"
+  github: kklab-Unity-MR
+  #linkedin: johndoe
+
+# some summary about what you do
+summary:
+  - 公立千歳科学技術大学大学院 理工学研究科 理工学専攻
+  - Mixed Reality
+  - HoloLens2
+  - Developer
+  - Network Infrastructure

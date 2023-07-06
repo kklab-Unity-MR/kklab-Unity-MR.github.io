@@ -1,0 +1,114 @@
+# section information
+section:
+  name: 概要
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 公立千歳科学技術大学大学院 
+# your company information
+company:
+  name: 小松川研究室
+  url: "http://kklab.spub.chitose.ac.jp/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'はじめまして！豊崎駿佑です。日々、xR関連の研究やプログラミングに夢中です。新しい技術やアプリケーションの開発に取り組むことが大好きで、自分の成長と社会への貢献を目指しています。最近はxR関連のコミュニティにも積極的に参加して、様々な人と交流を楽しんでいます。私のホームページでは、研究やプロジェクトの成果、教育活動、参加したコミュニティイベント、旅行の記録など、いろいろなことをシェアしていきます。'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "cist.b219.s.toyosaki@google.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+#- name: Stackoverflow
+  #icon: "fab fa-stack-overflow"
+  #url: "#"
+
+#- name: LinkedIn
+  #icon: "fab fa-linkedin"
+  #url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/TOYO_holo2"
+
+#- name: Facebook
+  #icon: "fab fa-facebook"
+  #url: "#"
+
+#- name: Mastadon
+  #icon: "fab fa-mastodon"
+  #url: "#"
+  #rel: "me noopener"
+
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCqca3HPjiXk4PlH79m2y7wg"
+
+- name: Qiita
+  icon: "fa-solid fa-q"
+  url: "#"
+
+- name: Zenn
+  icon: "fa-solid fa-z"
+  url: "#"
+  
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+#resourceLinks:
+#- title: "My Resume"
+  #url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+#- type: certification
+  #name: Certified Kubernetes Security Specialist
+  #url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  #badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+#- type: certification
+  #name: Istio and IBM Cloud Kubernetes Service
+  #url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  #badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+#- type: certification
+  #name: Artificial Intelligence and Machine Learning
+  #url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  #badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 80
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 90
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

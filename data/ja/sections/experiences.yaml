@@ -1,0 +1,107 @@
+# section information
+section:
+  name: ストーリー
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 2023年
+  positions:
+
+  - designation: ５月
+    responsibilities:
+    - <a href="https://hololens.connpass.com/event/281748/"> Tokyo HoloLens ミートアップ vol.33 現地ライトニングトーク参加</a>
+
+  - designation: ４月
+    responsibilities:
+    - 公立千歳科学技術大学大学院 理工学研究科 理工学専攻 入学
+
+  - designation: ３月
+    responsibilities:
+    - 公立千歳科学技術大学 理工学部 卒業
+    - ちとせプログラミング教室<複合現実をプログラミングで体験！> 支援者として参加 
+    - 情報システム教育学会 学生研究発表会 北海道地区 優秀発表賞受賞
+  
+  - designation: ２月
+    responsibilities:
+    - MRハッカソン2023 Microsoft賞受賞
+
+- company:
+    name: 2022年
+  positions:
+
+  - designation: ７・１１・１２月
+    responsibilities:
+    - 小学校プログラミング教育支援 参加
+
+  - designation: ６月
+    responsibilities:
+    - 研究室ネットワーク構築
+    - 研究室サーバ管理者 就任
+
+  - designation: ５月
+    responsibilities:
+    - プロジェクトメンバーMRチームメンター役
+
+  - designation: ４月
+    responsibilities:
+    - 小松川研究室 配属
+
+
+- company:
+    name: 2021年
+  positions:
+  - designation: １２月
+    responsibilities:
+    - 理科工房長 退任
+
+  - designation: ９月
+    responsibilities:
+    - 学内インターンシップ参加
+  
+  - designation: ８月
+    responsibilities:
+    - 小学校プログラミング教育支援 初参加
+
+  - designation: ３月
+    responsibilities:
+    - 小学校プログラミング教材の作成
+
+- company:
+    name: 2020年
+  positions:
+  - designation: １２月
+    responsibilities:
+    - 理科工房長 就任
+
+  - designation: １０月
+    responsibilities:
+    - プロジェクトメンバー 秋学期 加入 (プログラミングを用いた小学校の授業設計)
+
+  - designation: ５月
+    responsibilities:
+    - プロジェクトメンバー 春学期 加入 (理科工房出欠LineBot)
+
+  - designation: ４月
+    responsibilities:
+    - 情報システム工学科 配属
+
+
+- company:
+    name: 2019年
+  positions:
+  - designation: ５月 ～ １２月
+    responsibilities:
+    - 理科工房で様々なイベントに参加
+    - 
+
+  - designation: ４月
+    responsibilities:
+    - 公立千歳科学技術大学 理工学部 入学
+    - 学生プロジェクトグループ <a href="https://www.chitose.ac.jp/region/science">理科工房</a> 加入
