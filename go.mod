@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/kklab-Unity-MR/kklab-Unity-MR.github.io.git
 
 go 1.19
 
