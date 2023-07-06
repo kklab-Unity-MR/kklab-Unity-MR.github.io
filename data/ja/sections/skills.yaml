@@ -26,10 +26,10 @@ skills:
   summary: "Pythonの基本文法．機械学習(ニューラルネットワークや自然言語処理)．クラスタリングなどのデータ分析．Djangoフレームワークを用いたWeb開発"
   url: "https://www.python.org/"
 
-- name: Java
-  logo: /images/sections/skills/java_lang_logo.png
-  summary: "Javaの基本文法．簡易的なゲーム開発．Spring Bootを用いたLineBot開発"
-  url: "https://www.java.com/ja/"
+- name: Python
+  logo: /images/sections/skills/Python_lang_logo.png
+  summary: "Pythonの基本文法．機械学習(ニューラルネットワークや自然言語処理)．クラスタリングなどのデータ分析．Djangoフレームワークを用いたWeb開発"
+  url: "https://www.python.org/"
 
 - name: GAS
   logo: /images/sections/skills/GAS_img.png
