@@ -30,3 +30,7 @@ skills:
   logo: /images/sections/skills/GAS_img.png
   summary: "Googleのサービス(GoogleDriveやスプレッドシートなど)を連携したWeb開発．簡易的なLineBot作成．"
   url: "https://workspace.google.co.jp/intl/ja/products/apps-script/"
+
+- name: DataBase
+  logo: /images/sections/skills/DataBase.jpg
+  summary: "サービス連携と連携するために使用．MysqlやPostgreSQLやH2 DataBaseを利用した．"
