@@ -27,7 +27,7 @@ skills:
   url: "https://www.python.org/"
 
 - name: Java
-  logo: /images/sections/skills/Python_lang_logo.png
+  logo: /images/sections/skills/java-logo_1280x960.jpg
   summary: "javaの基本文法．簡易的なゲーム開発．Spring Bootを用いたLineBot開発"
   url: "https://www.java.com/ja/"
 
