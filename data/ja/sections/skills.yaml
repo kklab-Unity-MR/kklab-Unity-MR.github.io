@@ -45,3 +45,8 @@ skills:
   logo: /images/sections/skills/git.png
   summary: "基本的なGitコマンドを使用できる．Gitを用いた個人でのプロジェクト管理やチーム開発経験有あり．"
   url: "https://git-scm.com/"
+
+- name: AWS
+  logo: /images/sections/skills/aws_lang_logo.png
+  summary: "AWSを用いたクラウド開発やサービス連携．具体的にはEC2，RDS，Amazon Rekognitionなどのサービスを利用したことがある．"
+  url: "https://aws.amazon.com/jp/"
