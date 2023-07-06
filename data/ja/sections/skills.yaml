@@ -34,6 +34,7 @@ skills:
 - name: DataBase
   logo: /images/sections/skills/DataBase.jpg
   summary: "サービス連携と連携するために使用．MysqlやPostgreSQLやH2 DataBaseを利用した．"
+  url: #
 
 - name: Unity
   logo: /images/sections/skills/Unity_lang_logo.png
