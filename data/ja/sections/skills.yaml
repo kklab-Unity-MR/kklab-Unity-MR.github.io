@@ -29,7 +29,7 @@ skills:
 - name: Java
   logo: /images/sections/skills/Python_lang_logo.png
   summary: "javaの基本文法．簡易的なゲーム開発．Spring Bootを用いたLineBot開発"
-  url: "https://www.python.org/"
+  url: "https://www.java.com/ja/"
 
 - name: GAS
   logo: /images/sections/skills/GAS_img.png
