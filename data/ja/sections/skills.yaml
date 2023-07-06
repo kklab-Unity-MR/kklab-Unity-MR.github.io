@@ -34,3 +34,8 @@ skills:
 - name: DataBase
   logo: /images/sections/skills/DataBase.jpg
   summary: "サービス連携と連携するために使用．MysqlやPostgreSQLやH2 DataBaseを利用した．"
+
+- name: Unity
+  logo: /images/sections/skills/Unity_lang_logo.png
+  summary: "Unityの基本操作や知識持っている．主にMR(HoloLens2)のアプリ開発のために使用中．"
+  url: "https://unity.com/ja"
