@@ -15,8 +15,13 @@ skills:
   logo: /images/sections/skills/c_lang_logo.png
   summary: "C言語の基本文法．ソートなどのアルゴリズム実装．動的なメモリ管理．CUIベースのゲーム開発．"
   url: "https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E"
-  
+
 - name: C#
   logo: /images/sections/skills/csharp_lang_logo.png
   summary: Unityでの開発のためのメイン言語．Unity内のプロジェクトでオブジェクトなどを制御するプログラムを書くことができる．
   url: "https://learn.microsoft.com/ja-jp/dotnet/csharp/"
+
+- name: Java
+  logo: /images/sections/skills/java_lang_logo.png
+  summary: "Javaの基本文法．簡易的なゲーム開発．Spring Bootを用いたLineBot開発"
+  url: "https://www.java.com/ja/"
