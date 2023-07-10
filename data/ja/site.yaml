@@ -13,7 +13,7 @@ description: TOYO豊崎駿佑(HoloLens).
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: 記事一覧
-  url: https://toha-guides.netlify.app/posts/
+  url: https://kklab-unity-mr.github.io/posts/
   hideFromNavbar: false
   showOnFooter: false
 - name: Docs
